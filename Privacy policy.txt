@@ -1,0 +1,9 @@
+		Developed Inside
+
+		QR Actions Policy
+
+This is the privacy policy of the QR Actions app.
+
+QR Actions does not store, collect, send, manage any personal data of any kind.
+The camera permission is required for open camera by clickink on button. 
+All yours information does not store, collect, send, managed by QR Actions app.
